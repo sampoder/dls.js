@@ -1,0 +1,19 @@
+{
+  "name": "@sampoder/dls.js",
+  "version": "1.0.0",
+  "description": "🏏 JS library for the Duckworth–Lewis–Stern method.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampoder/dls.js.git"
+  },
+  "author": "@sampoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampoder/dls.js/issues"
+  },
+  "homepage": "https://github.com/sampoder/dls.js#readme"
+}
