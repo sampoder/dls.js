@@ -1,6 +1,6 @@
 {
   "name": "@sampoder/dls.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🏏 JS library for the Duckworth–Lewis–Stern method.",
   "main": "index.js",
   "scripts": {
